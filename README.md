@@ -40,8 +40,8 @@ Once the application is running, follow these steps:
 
 ### Example
 
-Enter the file name (without extension): CodingChallenge
-Enter the content for the QR code: Coding challenge: Build your own QR code generator
+1. Enter the file name (without extension): CodingChallenge
+2. Enter the content for the QR code: Coding challenge: Build your own QR code generator
 
 ![image](https://github.com/user-attachments/assets/c435f8ea-8bce-4c73-9d1a-b7ee9aecf281)
 
